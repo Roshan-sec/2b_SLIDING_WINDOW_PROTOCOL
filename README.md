@@ -43,9 +43,6 @@ client:
 
 <img width="936" height="338" alt="image" src="https://github.com/user-attachments/assets/057479d8-ae70-41b6-be0f-ebbf9b036346" />
 
-server:
-
-<img width="936" height="338" alt="image" src="https://github.com/user-attachments/assets/67614321-355e-4ec7-8de0-19cf807fc290" />
 
 
 ## RESULT
