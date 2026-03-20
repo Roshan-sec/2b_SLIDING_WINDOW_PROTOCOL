@@ -39,7 +39,7 @@ while True:
 ~~~
 ## OUPUT:
 
-client:
+
 
 <img width="936" height="338" alt="image" src="https://github.com/user-attachments/assets/057479d8-ae70-41b6-be0f-ebbf9b036346" />
 
